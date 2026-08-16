@@ -1,4 +1,4 @@
-SQL JOIN — COMPLETE VISUAL GUIDE
+SQL JOIN — COMPLETE VISUAL GUIDE 
 ================================
 1. TWO TABLES
 =============
